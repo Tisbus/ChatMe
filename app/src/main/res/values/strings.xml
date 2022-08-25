@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatMe</string>
+    <string name="send">Send</string>
+    <string name="enter_you_text">enter you text</string>
+    <string name="image">image</string>
+    <string name="button">buttonImage</string>
+    <string name="chat">Chat</string>
+    <string name="me">Me</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="tap_change_log_in">Tap change log in</string>
+    <string name="logo">logo</string>
+    <string name="avatar">avatar</string>
+</resources>
